@@ -6,8 +6,8 @@ An interactive data analysis dashboard exploring the economic impacts of the 202
 
 ![Petrol War Analysis Dashboard](assets/dashboard-preview.png)
 
-*Interactive dashboard showing oil price trends, country fuel comparisons, war timeline, and economic impact correlations. [View Live Demo](https://Alyssaatmasava.github.io/petrol-war-analysis/)*
-> **📷 To add your dashboard screenshot:** Follow the instructions in `assets/README.md`
+*Interactive dashboard showing oil price trends, country fuel comparisons, war timeline, and economic impact correlations. [View Live Demo](https://alyssaatmasava.github.io/petrol_war_analysis/)*
+
 ## �📊 Overview
 
 This project analyzes how geopolitical conflicts disrupt global energy markets, with a focus on:
@@ -85,20 +85,7 @@ petrol_war_analysis/
    # Save as assets/dashboard-preview.png
    # See assets/README.md for detailed instructions
    ```
-
-### 🌐 GitHub Pages Deployment (Optional)
-
-For a live, interactive demo accessible to anyone:
-
-1. **Enable GitHub Pages** in your repository settings:
-   - Go to Settings → Pages
-   - Source: "Deploy from a branch"
-   - Branch: main, folder: / (root)
-
-2. **Access your live dashboard** at: `https://Alyssaatmasava.github.io/petrol-war-analysis/`
-
-*Note: The root index.html automatically redirects to the dashboard folder*
-
+   
 ## 📈 Key Findings
 
 ### Oil Import Dependency Correlations
