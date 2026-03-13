@@ -2,7 +2,13 @@
 
 An interactive data analysis dashboard exploring the economic impacts of the 2026 US-Iran conflict on global oil markets and national economies.
 
-## 📊 Overview
+## � Dashboard Preview
+
+![Petrol War Analysis Dashboard](assets/dashboard-preview.png)
+
+*Interactive dashboard showing oil price trends, country fuel comparisons, war timeline, and economic impact correlations. [View Live Demo](https://yourusername.github.io/petrol-war-analysis/)*
+> **📷 To add your dashboard screenshot:** Follow the instructions in `assets/README.md`
+## �📊 Overview
 
 This project analyzes how geopolitical conflicts disrupt global energy markets, with a focus on:
 - Oil price volatility and supply chain disruptions
@@ -21,7 +27,8 @@ This project analyzes how geopolitical conflicts disrupt global energy markets, 
 
 ```
 petrol_war_analysis/
-├── dashboard/           # Interactive web dashboard
+├── assets/             # README images and media
+├── dashboard/          # Interactive web dashboard
 │   ├── petrol-war-dashboard.html
 │   ├── script.js
 │   └── styles.css
@@ -72,6 +79,23 @@ petrol_war_analysis/
    ```
    Open http://localhost:8000/petrol-war-dashboard.html
 
+6. **Add dashboard screenshot (optional):**
+   ```bash
+   # Take a screenshot of your running dashboard
+   # Save as assets/dashboard-preview.png
+   # See assets/README.md for detailed instructions
+   ```
+
+### 🌐 GitHub Pages Deployment (Optional)
+
+For a live, interactive demo accessible to anyone:
+
+1. **Enable GitHub Pages** in your repository settings
+2. **Update dashboard paths** (if needed) for GitHub Pages hosting
+3. **Access your live dashboard** at: `https://yourusername.github.io/petrol-war-analysis/`
+
+*Note: Update the demo link in this README with your actual GitHub username*
+
 ## 📈 Key Findings
 
 ### Oil Import Dependency Correlations
@@ -112,20 +136,9 @@ jupyter notebook notebooks/oil_crisis_analysis.ipynb
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Data sourced from Kaggle community datasets
 - Analysis inspired by real-world energy market dynamics
 - Built with Python data science stack (pandas, matplotlib, scipy)
 
-## 📞 Contact
-
-For questions or collaborations, please open an issue on GitHub.
-
----
-
-*Note: This analysis is based on hypothetical 2026 conflict scenarios for educational purposes.*
